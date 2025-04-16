@@ -7980,5 +7980,23 @@
         }
       }
     ]
+  },
+  {
+    "id": "a996e392-c729-45df-8496-6485d6d16dd0",
+    "title": "G3 Gate Access Starter Kit",
+    "shortDescription": "Starter kit with a Gate Hub, G3 Intercom, PoE++ adapter, and PoE++ over twisted pair extender for access control at a single gate with Touch Pass support.",
+    "slug": "ua-g3-sk-gate",
+    "thumbnail": {
+      "url": "https://cdn.ecomm.ui.com/products/a996e392-c729-45df-8496-6485d6d16dd0/ded0458f-3e8b-465e-b342-a79a905f3ee0.png"
+    },
+    "variants": [
+      {
+        "id": "ce20b27a-ef2e-4eea-b346-953abe3c12b7",
+        "displayPrice": {
+          "amount": 79900,
+          "currency": "USD"
+        }
+      }
+    ]
   }
 ]
